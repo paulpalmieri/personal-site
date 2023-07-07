@@ -34,3 +34,9 @@ document.addEventListener("DOMContentLoaded", function() {
   
   });
   
+
+  function seeChangelog() {
+    alert("🫶🏻 Regardez comme vous êtes tous beaux!")
+    alert("Vrmt trop trop beaux");
+    alert("faites attention à vos laptops");
+  }
